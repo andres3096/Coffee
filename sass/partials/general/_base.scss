@@ -1,0 +1,18 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+h2 {
+	color :$second-font-color;
+	text-transform: uppercase;
+	font: 18px $first-font;
+}
+h3 {
+	color: #fff;
+	text-transform: uppercase;
+	font-family: $first-font;
+}
+p {
+	color: $third-font-color;
+	font: 13px $first-font;
+}

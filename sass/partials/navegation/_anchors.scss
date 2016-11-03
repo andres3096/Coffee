@@ -1,0 +1,28 @@
+a {
+	text-decoration: none;
+}
+ul {
+	display: flex;
+}
+.radius {
+	border-radius: 34px 0px 0px 34px;
+}
+.radius2 {
+	border-radius: 0px 34px 34px 0px;
+}
+.header li {
+	display: inline;
+	list-style: none;
+    font: 10px $first-font;
+}
+.infoHeader a{
+	color: $second-font-color;
+}
+.menu a{
+	color: $third-font-color;
+}
+.infoHealth a {
+	color: $first-color;
+	font-size: 12px;
+}
+
