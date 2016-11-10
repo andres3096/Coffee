@@ -1,5 +1,5 @@
 .wrapper {
-  width: 1280px;
+  width: 67.2%;
   margin: 0 auto; }
 
 .header {
@@ -8,23 +8,23 @@
   height: 426px; }
 
 .infoHeader {
-  width: 415px;
+  width: 32%;
   height: 115px;
   position: relative;
   left: 206px; }
 
 .infoHealth {
   text-align: center;
-  width: 336px;
+  width: 25.2%;
   display: inline-block;
   margin: 106px 0px 140px 73px; }
 
 .infoU {
   background-color: #664735;
-  width: 630px;
+  width: 51.3%;
   height: 411px;
   position: relative;
-  left: 649px;
+  left: 48.7%;
   bottom: 415px; }
 
 .infoU h3 {
@@ -33,7 +33,7 @@
 .infoU p {
   color: #fff;
   font: 16px Myriad Pro, italic, sans-serif;
-  width: 505px;
+  width: 80.23%;
   margin: 38px 54px; }
 
 .galery {
@@ -45,15 +45,15 @@
   background-color: #664735;
   height: 225px;
   margin-bottom: 100px;
-  width: 1280px;
+  width: 67.2%;
   margin: 0 auto; }
 
 .moreInfo {
-  width: 236px;
+  width: 18.5%;
   display: inline-block;
   vertical-align: text-top;
   position: relative;
-  left: 163px;
+  left: 12.5%;
   top: 48px; }
 
 * {
@@ -76,7 +76,7 @@ p {
 
 .logo {
   position: relative;
-  left: 118px;
+  left: 9%;
   bottom: 51px; }
 
 .home {
@@ -84,28 +84,29 @@ p {
 
 .arrowL {
   position: relative;
-  right: 298px;
+  right: 24%;
   top: 108px; }
 
 .arrowR {
   position: relative;
-  left: 718px;
+  left: 56%;
   top: 108px; }
 
 .points {
   position: relative;
-  left: 154px;
+  left: 12%;
   top: 248px; }
 
 .coffeeGrains {
   position: relative;
-  left: 650px;
+  left: 50%;
   top: 175px; }
 
 .circle {
   position: relative;
-  left: 751px;
-  top: 98px; }
+  left: 46.7%;
+  top: 98px;
+  left: 47%; }
 
 a {
   text-decoration: none; }
