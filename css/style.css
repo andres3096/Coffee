@@ -1,5 +1,5 @@
 .wrapper {
-  width: 67.2%;
+  width: 80em;
   margin: 0 auto; }
 
 .header {
@@ -8,23 +8,23 @@
   height: 426px; }
 
 .infoHeader {
-  width: 32%;
+  width: 25.93em;
   height: 115px;
   position: relative;
-  left: 206px; }
+  left: 12.87em; }
 
 .infoHealth {
   text-align: center;
-  width: 25.2%;
+  width: 21em;
   display: inline-block;
   margin: 106px 0px 140px 73px; }
 
 .infoU {
   background-color: #664735;
-  width: 51.3%;
+  width: 39.37em;
   height: 411px;
   position: relative;
-  left: 48.7%;
+  left: 40.56em;
   bottom: 415px; }
 
 .infoU h3 {
@@ -33,7 +33,7 @@
 .infoU p {
   color: #fff;
   font: 16px Myriad Pro, italic, sans-serif;
-  width: 80.23%;
+  width: 31.56em;
   margin: 38px 54px; }
 
 .galery {
@@ -45,15 +45,15 @@
   background-color: #664735;
   height: 225px;
   margin-bottom: 100px;
-  width: 67.2%;
+  width: 80em;
   margin: 0 auto; }
 
 .moreInfo {
-  width: 18.5%;
+  width: 14.75em;
   display: inline-block;
   vertical-align: text-top;
   position: relative;
-  left: 12.5%;
+  left: 10.18em;
   top: 48px; }
 
 * {
@@ -63,7 +63,7 @@
 h2 {
   color: #9d9c9d;
   text-transform: uppercase;
-  font: 18px Myriad Pro, italic, sans-serif; }
+  font: 1.125em Myriad Pro, italic, sans-serif; }
 
 h3 {
   color: #fff;
@@ -72,11 +72,11 @@ h3 {
 
 p {
   color: #b5b4b5;
-  font: 13px Myriad Pro, italic, sans-serif; }
+  font: 0.8125em Myriad Pro, italic, sans-serif; }
 
 .logo {
   position: relative;
-  left: 9%;
+  left: 7.375em;
   bottom: 51px; }
 
 .home {
@@ -84,29 +84,31 @@ p {
 
 .arrowL {
   position: relative;
-  right: 24%;
+  right: 18.625em;
   top: 108px; }
 
 .arrowR {
   position: relative;
-  left: 56%;
+  left: 44.875em;
   top: 108px; }
 
 .points {
   position: relative;
-  left: 12%;
+  left: 9.625em;
   top: 248px; }
 
 .coffeeGrains {
   position: relative;
-  left: 50%;
+  left: 40.625em;
   top: 175px; }
 
 .circle {
   position: relative;
-  left: 46.7%;
+  left: 46.9375em;
   top: 98px;
-  left: 47%; }
+  float: left;
+  top: 266px;
+  left: 37.5em; }
 
 a {
   text-decoration: none; }
@@ -123,7 +125,7 @@ ul {
 .header li {
   display: inline;
   list-style: none;
-  font: 10px Myriad Pro, italic, sans-serif; }
+  font: 0.625em Myriad Pro, italic, sans-serif; }
 
 .infoHeader a {
   color: #9d9c9d; }
@@ -141,21 +143,15 @@ ul {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 1.6em;
   padding: 12px 24px;
   position: relative;
-  left: 650px;
+  left: 40.625em;
   bottom: 110px; }
 
 .buttonR {
   border-radius: 6px;
   padding: 9px 15px;
   margin: 5px 67px; }
-
-.circle {
-  float: left;
-  position: relative;
-  top: 266px;
-  left: 600px; }
 
 /*# sourceMappingURL=style.css.map */

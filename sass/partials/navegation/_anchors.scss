@@ -13,7 +13,7 @@ ul {
 .header li {
 	display: inline;
 	list-style: none;
-    font: 10px $first-font;
+    font: 0.625em $first-font;
 }
 .infoHeader a{
 	color: $second-font-color;
@@ -23,6 +23,6 @@ ul {
 }
 .infoHealth a {
 	color: $first-color;
-	font-size: 12px;
+	font-size: 0.75em;
 }
 
